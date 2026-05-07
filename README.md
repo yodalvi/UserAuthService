@@ -1,4 +1,4 @@
-User Auth service 
-  login 
-  signup 
+User Auth service -
+  login, 
+  signup, 
   validate jwt token 
