@@ -6,7 +6,7 @@ Secure password hashing using BCrypt
 Protected REST endpoints using Spring Security
 Token validation and filter-based security
 
-Tech Stack
+#Tech Stack
 Java
 Spring Boot
 Spring Security
@@ -14,10 +14,10 @@ JWT (JSON Web Token)
 Maven
 REST APIs
 
-Project Architecture
-	Controller Layer → Handles API requests
-	Service Layer → Business logic + JWT filter + authentication handling
-	Repository Layer → Database interaction
+#Project Architecture
+Controller Layer → Handles API requests
+Service Layer → Business logic + JWT filter + authentication handling
+Repository Layer → Database interaction
 
 
 Authentication Flow
